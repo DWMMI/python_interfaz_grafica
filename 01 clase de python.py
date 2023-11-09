@@ -5,7 +5,6 @@ Unidad 2. Generación de interfaces. Archivo 1.
 # Importamos las clases QApplication, QLabel y QWidget
 # del módulo QtWidgets del paquete PySide6
 
-import self as self
 from PySide6.QtWidgets import QApplication, QLabel, QWidget
 # Clase Ventana, hereda de QWidget, componente base.
 class Ventana(QWidget):

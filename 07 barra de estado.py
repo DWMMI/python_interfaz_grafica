@@ -1,5 +1,5 @@
-from PySide6.QtWidgets import QMainWindow, QApplication, QToolBar, QLabel
-from PySide6.QtGui import QAction, QKeySequence, QIcon
+from PySide6.QtWidgets import QMainWindow, QApplication, QLabel
+
 
 #ventana principal
 class VentanaPrincipal (QMainWindow):

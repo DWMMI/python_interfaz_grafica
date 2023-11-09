@@ -1,5 +1,5 @@
-from PySide6.QtWidgets import QMainWindow, QApplication
 from PySide6.QtGui import QAction, QKeySequence
+from PySide6.QtWidgets import QMainWindow, QApplication
 
 
 # ventana principal

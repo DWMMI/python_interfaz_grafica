@@ -1,6 +1,6 @@
-import sys
+import
 
-from PySide6.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QMainWindow, QLineEdit, QComboBox
+from PySide6.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QMainWindow, QComboBox
 
 #Ejercicio 4: La universidad desea una aplicación que le calcule el porcentaje
 # de niños y niñas que hay matriculados en una jornada para futuros estudiantes.
